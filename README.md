@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">-🧑abdelhakimdehina<br>-21 yo</p>
+<p align="left">-🧑abdelhakimdehina<br>-21 yo
+-cs student 
+-frontend dev
+_
+</p>
 
 ###
 
